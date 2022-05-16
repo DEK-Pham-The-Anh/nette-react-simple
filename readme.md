@@ -1,6 +1,6 @@
 # Nette with React
 
-Nette PHP framework + React without NPM
+Nette PHP framework + React without building tools
 
 ## Including React and Babel scripts 
 
